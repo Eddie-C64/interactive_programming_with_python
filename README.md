@@ -1,2 +1,2 @@
 # interactive_programming_with_python
-This is a few games created using code skuptor
+These are a few games whose title essentailly gives the instructions on how to play. 
